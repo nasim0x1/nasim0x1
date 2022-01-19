@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nasim Mahamud Shameem</h1>
-<h3 align="center">A passionate Android app developer from Bangladesh</h3></br>
+<h4 align="center">A self learner, passionate Android app developer</h4></br>
+<h3>
+<p>I've been working Andorid development for over a year now. PHP was the first programming language I taught myself. After that i tried many different languages: Python, Java, C#, Lua</P>
+<p>Python is my favorite programming language. I've worked with flask(RESTful api), selenium, beautiful soup, tkinter in the past for freelancing task. Besides these, I have some basic DevOps skills. I've deployed Flask and Python Bot(Telegram, Discord, Slack) projects to VPS.</p>
+<P>My favourite operating system is Ubuntu.</p><h3><br>
+<h3 align="center">Languages and Tools:</h3><br>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"  style="margin-right: 15px;"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"style="margin-right: 15px;"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 15px;"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a> </p>
+<br>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=nasim0x1&show_icons=true" alt="nasim0x1" />
 
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nasim0x1" alt="nasim0x1" />
+<h3 align="center">
+<img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=nasim0x1&layout=compact" alt="nasim0x1" />
+</h3>
+
+<h3 align="center">
+
+<img align="left"  height=auto width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=nasim0x1&show_icons=true&locale=en&layout=compact" alt="nasim0x1" />
+
+<img align="right" height=auto width=45% src="https://github-readme-stats.vercel.app/api?username=nasim0x1&show_icons=true&layout=compact" alt="nasim0x1" />
+</h3>
