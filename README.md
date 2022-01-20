@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasim Mahamud Shameem</h1>
-<h4 align="center">A self learner, passionate Android app developer</h4></br>
+<h4 align="center">A self learner and passionate Android app developer</h4></br>
 
 
 <h3 align="center">
