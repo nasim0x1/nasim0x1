@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Md Nasim Mahamud Shameem or only Nasim :)
+- 👀 I’m interested in problem solving and native Android development
+- 🌱 I’m currently learning Data Structure and Algorithms
+- will update more soon
